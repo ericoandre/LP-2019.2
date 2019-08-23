@@ -1,10 +1,12 @@
-## 1) Crie um programa estruturado que receba algo que represente um carro ou uma moto e imprima a quantidade de rodas. Faça o mesmo utilizando a orientação a objetos.
+## Respostas 
+
+1) Crie um programa estruturado que receba algo que represente um carro ou uma moto e imprima a quantidade de rodas. Faça o mesmo utilizando a orientação a objetos.
 
 
-## 2) Reflita sobre os códigos criados: você geralmente cria programas orientados a objetos ou estruturados?
+2) Reflita sobre os códigos criados: você geralmente cria programas orientados a objetos ou estruturados?
 
-# Penso de forma estruturada ainda.
+Penso de forma estruturada ainda.
 
-## 3) "Não existe agora, e nem existirá, uma linguagem de programação na qual seja difícil escrever programas ruins." - Larry Flon 1975. Discorra sobre a afirmação de Larry Flon.
+3) "Não existe agora, e nem existirá, uma linguagem de programação na qual seja difícil escrever programas ruins." - Larry Flon 1975. Discorra sobre a afirmação de Larry Flon.
 
-# 
+
