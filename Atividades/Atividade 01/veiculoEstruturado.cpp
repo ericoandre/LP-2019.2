@@ -8,7 +8,6 @@ using namespace std;
 typedef struct{
     string cor;
     string tipo;
-    int totalRodas;
     int qtRodas;
     int ano;
 }veiculo;
@@ -21,7 +20,7 @@ int main(void){
 	//definicao de estrutura do tipo veiculo
     veiculo moto;
     moto.tipo = "moto";
-    moto.totalRodas = 2;
+    moto.qtRodas = 2;
     moto.cor = "verde";
     moto.ano = 2008;
 
@@ -29,7 +28,7 @@ int main(void){
 
     veiculo carro;
     carro.tipo = "carro";
-    carro.totalRodas = 4;
+    carro.qtRodas = 4;
     carro.cor = "azul";
     carro.ano = 1993;
 
@@ -40,5 +39,5 @@ int main(void){
 
 //passagem de parametro por referencia 
 void tipoVeiculo(veiculo *p){
-		cout<< "O veiculo do tipo "<<(*p).tipo<<" e da cor "<<(*p).cor<<" e possui "<< (*p).totalRodas<<" rodas "<<endl;
+		cout<< "O veiculo do tipo "<<(*p).tipo<<" e da cor "<<(*p).cor<<" e possui "<< (*p).qtRodas<<" rodas "<<endl;
 }
